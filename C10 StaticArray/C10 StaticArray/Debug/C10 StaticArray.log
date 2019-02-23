@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  C10 StaticArray.cpp
+c:\users\azul\desktop\ejemplos del capitulo 10 a exponer\c10 staticarray\c10 staticarray\c10 staticarray.cpp(24): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\azul\desktop\ejemplos del capitulo 10 a exponer\c10 staticarray\c10 staticarray\c10 staticarray.cpp(36): warning C4838: la conversión de 'double' en 'const float' requiere una conversión de restricción
+c:\users\azul\desktop\ejemplos del capitulo 10 a exponer\c10 staticarray\c10 staticarray\c10 staticarray.cpp(36): warning C4305: 'inicializando': truncamiento de 'double' a 'const float'
+c:\users\azul\desktop\ejemplos del capitulo 10 a exponer\c10 staticarray\c10 staticarray\c10 staticarray.cpp(45): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+c:\users\azul\desktop\ejemplos del capitulo 10 a exponer\c10 staticarray\c10 staticarray\c10 staticarray.cpp(45): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\azul\desktop\ejemplos del capitulo 10 a exponer\c10 staticarray\c10 staticarray\c10 staticarray.cpp(52): warning C4101: 'v': variable local sin referencia
+  C10 StaticArray.vcxproj -> C:\Users\Azul\Desktop\Ejemplos del capitulo 10 a exponer\C10 StaticArray\Debug\C10 StaticArray.exe
