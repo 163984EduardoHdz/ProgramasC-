@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  C10 Local.cpp
+c:\users\azul\desktop\ejemplos del capitulo 10 a exponer\c10 local\c10 local\c10 local.cpp(23): warning C4101: 'x': variable local sin referencia
+c:\users\azul\desktop\ejemplos del capitulo 10 a exponer\c10 local\c10 local\c10 local.cpp(26): warning C4101: 'x': variable local sin referencia
+  C10 Local.vcxproj -> C:\Users\Azul\Desktop\Ejemplos del capitulo 10 a exponer\C10 Local\Debug\C10 Local.exe
