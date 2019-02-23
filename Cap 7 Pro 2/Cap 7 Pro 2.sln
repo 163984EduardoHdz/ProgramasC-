@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cap 7 Pro 2", "Cap 7 Pro 2\Cap 7 Pro 2.vcxproj", "{0087E560-1F71-4C12-995E-8572F9AE990D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0087E560-1F71-4C12-995E-8572F9AE990D}.Debug|x64.ActiveCfg = Debug|x64
+		{0087E560-1F71-4C12-995E-8572F9AE990D}.Debug|x64.Build.0 = Debug|x64
+		{0087E560-1F71-4C12-995E-8572F9AE990D}.Debug|x86.ActiveCfg = Debug|Win32
+		{0087E560-1F71-4C12-995E-8572F9AE990D}.Debug|x86.Build.0 = Debug|Win32
+		{0087E560-1F71-4C12-995E-8572F9AE990D}.Release|x64.ActiveCfg = Release|x64
+		{0087E560-1F71-4C12-995E-8572F9AE990D}.Release|x64.Build.0 = Release|x64
+		{0087E560-1F71-4C12-995E-8572F9AE990D}.Release|x86.ActiveCfg = Release|Win32
+		{0087E560-1F71-4C12-995E-8572F9AE990D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {391D3A95-A28B-45A3-96A3-895860CC4821}
+	EndGlobalSection
+EndGlobal
