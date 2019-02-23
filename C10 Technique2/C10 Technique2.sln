@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C10 Technique2", "C10 Technique2\C10 Technique2.vcxproj", "{503CEE90-9549-4554-9880-28282E698CAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503CEE90-9549-4554-9880-28282E698CAB}.Debug|x64.ActiveCfg = Debug|x64
+		{503CEE90-9549-4554-9880-28282E698CAB}.Debug|x64.Build.0 = Debug|x64
+		{503CEE90-9549-4554-9880-28282E698CAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{503CEE90-9549-4554-9880-28282E698CAB}.Debug|x86.Build.0 = Debug|Win32
+		{503CEE90-9549-4554-9880-28282E698CAB}.Release|x64.ActiveCfg = Release|x64
+		{503CEE90-9549-4554-9880-28282E698CAB}.Release|x64.Build.0 = Release|x64
+		{503CEE90-9549-4554-9880-28282E698CAB}.Release|x86.ActiveCfg = Release|Win32
+		{503CEE90-9549-4554-9880-28282E698CAB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6076CE8-2681-4258-9387-AD49CD9EF3F6}
+	EndGlobalSection
+EndGlobal
