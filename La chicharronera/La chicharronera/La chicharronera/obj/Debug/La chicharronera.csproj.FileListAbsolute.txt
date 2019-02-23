@@ -1,0 +1,10 @@
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\bin\Debug\La chicharronera.exe.config
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\bin\Debug\La chicharronera.exe
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\bin\Debug\La chicharronera.pdb
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\obj\Debug\La chicharronera.csprojResolveAssemblyReference.cache
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\obj\Debug\La_chicharronera.Form1.resources
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\obj\Debug\La_chicharronera.Properties.Resources.resources
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\obj\Debug\La chicharronera.csproj.GenerateResource.Cache
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\obj\Debug\La chicharronera.csproj.CoreCompileInputs.cache
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\obj\Debug\La chicharronera.exe
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\obj\Debug\La chicharronera.pdb

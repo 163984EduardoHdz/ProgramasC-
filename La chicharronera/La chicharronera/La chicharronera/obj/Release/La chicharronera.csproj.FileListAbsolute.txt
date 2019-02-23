@@ -1,0 +1,9 @@
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\bin\Release\La chicharronera.exe.config
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\bin\Release\La chicharronera.exe
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\bin\Release\La chicharronera.pdb
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\obj\Release\La_chicharronera.Form1.resources
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\obj\Release\La_chicharronera.Properties.Resources.resources
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\obj\Release\La chicharronera.csproj.GenerateResource.Cache
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\obj\Release\La chicharronera.csproj.CoreCompileInputs.cache
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\obj\Release\La chicharronera.exe
+C:\Users\Azul\Desktop\La chicharronera\La chicharronera\La chicharronera\obj\Release\La chicharronera.pdb
