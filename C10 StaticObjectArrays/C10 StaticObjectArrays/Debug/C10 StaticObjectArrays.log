@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  C10 StaticObjectArrays.cpp
+c:\users\azul\desktop\ejemplos del capitulo 10 a exponer\c10 staticobjectarrays\c10 staticobjectarrays\c10 staticobjectarrays.cpp(36): warning C4101: 'v': variable local sin referencia
+  C10 StaticObjectArrays.vcxproj -> C:\Users\Azul\Desktop\Ejemplos del capitulo 10 a exponer\C10 StaticObjectArrays\Debug\C10 StaticObjectArrays.exe
